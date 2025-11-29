@@ -2,7 +2,7 @@
 
 currently a cs major at georgia tech
 
-[visit my portfolio](https://your-portfolio.com)
+[visit my portfolio](https://pranav-vyas.com)
 
 ### Languages Used
 
