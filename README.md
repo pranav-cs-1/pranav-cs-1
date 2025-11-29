@@ -6,4 +6,4 @@ currently a cs major at georgia tech
 
 ### Languages Used
 
-<img src="https://github-readme-stats-v2-gray.vercel.app/api/top-langs/?username=pranav-cs-1&layout=compact&" alt="Top Languages" />
+<img src="https://github-readme-stats-v2-gray.vercel.app/api/top-langs/?username=pranav-cs-1&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
